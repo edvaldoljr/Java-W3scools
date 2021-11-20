@@ -31,5 +31,6 @@ public class Variaveis {
         System.out.println("Boolean2: " + myBoolean2);
 
         final int numero = 20; // final não pode ser alterado
+        
     }
 }
